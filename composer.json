@@ -4,7 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/socket-aware-trait": "dev-main"
+        "potter/socket-aware-trait": "dev-main",
+        "potter/socket-server-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [
