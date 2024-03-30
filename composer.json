@@ -5,7 +5,13 @@
     "require": {
         "php": "^8.3",
         "potter/socket-aware-trait": "dev-main",
+        "potter/socket-client-trait": "dev-main",
         "potter/socket-server-trait": "dev-main"
+    },
+    "suggest": {
+        "potter/socket": "dev-main",
+        "potter/traits": "dev-main",
+        "potter/framework": "dev-main"
     },
     "license": "MIT",
     "authors": [
